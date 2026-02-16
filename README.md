@@ -4,5 +4,4 @@
     <p>Une version de la "hess" de SMS / IMessage conçu pour fonctinné sur navigateur web ( <a href="https://vuejs.org/">en Vue.js</a> ) </p>
     <hr>
     <img src="icon.png" width="100">
-    <p>@UserQuentyn (Quentyn.Etter)</p>
 </div>
