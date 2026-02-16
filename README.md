@@ -6,5 +6,5 @@
     </div>
     <hr>
     <img src="icon.png" width="100">
-    
+    <p>@UserQuentyn (Quentyn.Etter)</p>
 </div>
