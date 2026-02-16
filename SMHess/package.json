@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "colorette": "^2.0.20",
+    "dotenv": "^17.3.1",
     "vue": "^3.5.25"
   },
   "devDependencies": {
