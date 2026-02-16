@@ -19,6 +19,7 @@ defineProps<{
   <p>{{ message }}</p>
 
   <hr>
+  
 </template>
 
 
