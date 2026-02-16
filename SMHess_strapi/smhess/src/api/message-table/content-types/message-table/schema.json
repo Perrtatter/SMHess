@@ -1,0 +1,14 @@
+{
+  "kind": "collectionType",
+  "collectionName": "message_tables",
+  "info": {
+    "singularName": "message-table",
+    "pluralName": "message-tables",
+    "displayName": "message_table"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {}
+}
