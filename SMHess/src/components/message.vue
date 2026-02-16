@@ -1,13 +1,10 @@
 <script setup lang="ts">
-import { ref } from 'vue'
-
 defineProps<{ 
   message: string ,
   pp_link: string,
   name: string
  }>()
 
-const count = ref(0)
 </script>
 
 <template>
@@ -22,7 +19,7 @@ const count = ref(0)
   <p>{{ message }}</p>
 
   <hr>
-
+  <h1>test</h1>
 </template>
 
 
