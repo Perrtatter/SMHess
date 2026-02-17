@@ -5,5 +5,5 @@
     <hr>
     <img src="icon.png" width="100">
 <p>La base de données est gérée avec <a href="https://strapi.io/">Strapi</a> ;)</p>
-<p>Et le front avec <a href="https://vuejs.org/">Vue.js</a> et <a href="https://www.typescriptlang.org/">TypeScript</a> ;)</p>
+<p>Et le front avec <a href="https://vuejs.org/">Vue.js</a> et <a href="https://www.w3schools.com/js/">Javascript</a> ;)</p>
 </div>

@@ -1,6 +1,6 @@
 import { green, red } from 'colorette';
 
-const TOKEN = ""// The token is not here ;)
+const TOKEN =  "The token is not here ;)"
 
 if (TOKEN) {
   console.log(green(`Il y a un TOKEN : ${TOKEN}`));
@@ -48,4 +48,5 @@ fetchUser();
 
 
 
-// pour le lancer : (PWD = \SMHess\SMHess\src\functions>) node .\fetchUser.js...
+// pour le lancer : (PWD = \SMHess\SMHess\src\functions>) node .\fetchUser.js...     --§ Windows
+// pour le lancer : (PWD = SMHess/src/functions/fetchUser.js ) node fetchUser.js...  --§ Macos/Linux
