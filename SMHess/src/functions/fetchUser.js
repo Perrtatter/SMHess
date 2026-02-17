@@ -1,6 +1,6 @@
 import { green, red } from 'colorette';
 
-const TOKEN = // The token is not here ;)
+const TOKEN = ""// The token is not here ;)
 
 if (TOKEN) {
   console.log(green(`Il y a un TOKEN : ${TOKEN}`));
