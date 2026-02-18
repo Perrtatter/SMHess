@@ -1,5 +1,7 @@
 <script setup lang="ts">
 import message from './components/message.vue'
+import Button from 'primevue/button';
+
 </script>
 
 <template>
@@ -9,10 +11,12 @@ import message from './components/message.vue'
 
   <message message="Ok, im comming soon iefjiffjrifrjfrfi" pp_link="https://upload.wikimedia.org/wikipedia/commons/8/89/Portrait_Placeholder.png?20170328184010" name="APPRENTI" />
 
-
+  <Button label="Profile" icon="pi pi-user" />
 
 </template>
 
 <style scoped>
+
+@import url("style.css");
 
 </style>
